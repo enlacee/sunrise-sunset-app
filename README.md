@@ -43,3 +43,16 @@ curl "http://localhost:4567/sun?city=berlin&startDate=2024-05-10&endDate=2024-05
 ```
 
 ---
+
+
+## Preview App
+
+![frontend](./docs/thumbnail.png)
+
+![backend](./docs/thumbnail-backend.png)
+
+
+## Resources:
+
+- [Requirements](./docs/Sunrise_Sunset_App.pdf)
+- [Sunrise API](https://sunrise-sunset.org/api)
